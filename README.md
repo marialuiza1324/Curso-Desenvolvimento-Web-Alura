@@ -1,6 +1,6 @@
 # Curso-Desenvolvimento-Web-Udemy
 
-Material do básico ao avançado [Curso](https://www.udemy.com/course/web-completo/?couponCode=JUST4U02223)
+Material do básico ao avançado
 <br>
 Teoria e prática com desenvolvimento de diversos projetos
 <br>
@@ -23,6 +23,6 @@ Teoria e prática com desenvolvimento de diversos projetos
 
 ## Lecionado por:
 Jorge Sant Ana e Jamilton Damasceno
-<br>
-[Curso](https://www.udemy.com/course/web-completo/?couponCode=JUST4U02223)
+<br><br>
+[Desenvolvimento Web](https://www.udemy.com/course/web-completo/?couponCode=JUST4U02223)
  
